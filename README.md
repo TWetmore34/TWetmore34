@@ -1,15 +1,15 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TJ Wetmore (he/they)
+==================================================================================================================================
 
-Welcome to my Github account! I hope you enjoy some of the projects I've set up here, and if you ever have questions about the coding decisions I made while producing them, please reach out to ask! I love talking code and questions are always welcom.
+Fullstack Developer
+-------------------
 
-I'm currently working on projects related to Tries. I'd really like to find a way to use one to set up a from scratch auto complete, and going further I'd love to develop it into a full word proccesser. As soon as I have enough info on it to get started with a deployed project, I'll be sure to include a link to it here!
+Welcome to my Github account! I hope you enjoy some of the projects I've set up here, and if you ever have questions about the coding decisions I made while producing them, please reach out to ask! I love talking code and questions are always welcome. I am a recent graduate of Georgia Tech's fullstack web development program, and I'm looking to get a great start in the field! Taking advantage of everything I learned in my four year english degree and applying it to coding has made for one of the most rewarding experiences I could ask for, and I'm so excited to continue looking for more!
 
-I'm working on learning more algoirthms as always, but a real focus for me currently is AWS systems. As the leading provider of cloud services, the tools they can provide me with a very powerful! PS: if you have any advice on resources to learn, please send them my way through my email below.
-
-Email: Tjwetmore34@gmail.com
-LinkedIn: https://www.linkedin.com/in/thomas-wetmore-548b75151/
-
-My pronouns are he/they
+* 🌍  I'm based in Atlanta
+* 🖥️  See my portfolio at [Github pages](http://twetmore34.github.io/portfolio-front-end/)
+* ✉️  You can contact me at [tjwetmore34@gmail.com](mailto:tjwetmore34@gmail.com)
+* 🧠  I'm learning Tries and Python! I'd like to start working towards better understanding data analytics as my next steps.
 
 <!--
 **TWetmore34/TWetmore34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
