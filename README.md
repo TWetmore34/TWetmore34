@@ -8,7 +8,7 @@ Welcome to my Github account! I hope you enjoy some of the projects I've set up 
 
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [Github pages](http://twetmore34.github.io/portfolio-front-end/)
-* ✉️  You can contact me at [tjwetmore34@gmail.com](mailto:tjwetmore34@gmail.com)
+* ✉️  You can contact me at [wetmore.t34@gmail.com](mailto:wetmore.t34@gmail.com)
 * 🧠  I'm learning Tries and Python! I'd like to start working towards better understanding data analytics as my next steps.
 
 <!--
