@@ -7,7 +7,7 @@ Fullstack Developer
 Welcome to my Github account! I hope you enjoy some of the projects I've set up here, and if you ever have questions about the coding decisions I made while producing them, please reach out to ask! I love talking code and questions are always welcome. I am a recent graduate of Georgia Tech's fullstack web development program, and I'm looking to get a great start in the field! Taking advantage of everything I learned in my four year english degree and applying it to coding has made for one of the most rewarding experiences I could ask for, and I'm so excited to continue looking for more!
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [Github pages](http://twetmore34.github.io/portfolio-front-end/)
+* 🖥️  See my [portfolio](https://twetmore.vercel.app)
 * ✉️  You can contact me at [wetmore.t34@gmail.com](mailto:wetmore.t34@gmail.com)
 * 🧠  I'm learning Tries and Python! I'd like to start working towards better understanding data analytics as my next steps.
 
